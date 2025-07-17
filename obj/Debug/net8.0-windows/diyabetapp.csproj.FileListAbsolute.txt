@@ -1,0 +1,322 @@
+C:\Users\emirh\source\repos\diyabetapp\bin\Debug\net8.0-windows\diyabetapp.exe
+C:\Users\emirh\source\repos\diyabetapp\bin\Debug\net8.0-windows\diyabetapp.deps.json
+C:\Users\emirh\source\repos\diyabetapp\bin\Debug\net8.0-windows\diyabetapp.runtimeconfig.json
+C:\Users\emirh\source\repos\diyabetapp\bin\Debug\net8.0-windows\diyabetapp.dll
+C:\Users\emirh\source\repos\diyabetapp\bin\Debug\net8.0-windows\diyabetapp.pdb
+C:\Users\emirh\source\repos\diyabetapp\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\emirh\source\repos\diyabetapp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\emirh\source\repos\diyabetapp\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\emirh\source\repos\diyabetapp\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\emirh\source\repos\diyabetapp\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\emirh\source\repos\diyabetapp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\emirh\source\repos\diyabetapp\obj\Debug\net8.0-windows\diyabetapp.csproj.AssemblyReference.cache
+C:\Users\emirh\source\repos\diyabetapp\obj\Debug\net8.0-windows\diyabetapp.AnaForm.resources
+C:\Users\emirh\source\repos\diyabetapp\obj\Debug\net8.0-windows\diyabetapp.Form1.resources
+C:\Users\emirh\source\repos\diyabetapp\obj\Debug\net8.0-windows\diyabetapp.csproj.GenerateResource.cache
+C:\Users\emirh\source\repos\diyabetapp\obj\Debug\net8.0-windows\diyabetapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emirh\source\repos\diyabetapp\obj\Debug\net8.0-windows\diyabetapp.AssemblyInfoInputs.cache
+C:\Users\emirh\source\repos\diyabetapp\obj\Debug\net8.0-windows\diyabetapp.AssemblyInfo.cs
+C:\Users\emirh\source\repos\diyabetapp\obj\Debug\net8.0-windows\diyabetapp.csproj.CoreCompileInputs.cache
+C:\Users\emirh\source\repos\diyabetapp\obj\Debug\net8.0-windows\diyabetapp.csproj.Up2Date
+C:\Users\emirh\source\repos\diyabetapp\obj\Debug\net8.0-windows\diyabetapp.dll
+C:\Users\emirh\source\repos\diyabetapp\obj\Debug\net8.0-windows\refint\diyabetapp.dll
+C:\Users\emirh\source\repos\diyabetapp\obj\Debug\net8.0-windows\diyabetapp.pdb
+C:\Users\emirh\source\repos\diyabetapp\obj\Debug\net8.0-windows\diyabetapp.genruntimeconfig.cache
+C:\Users\emirh\source\repos\diyabetapp\obj\Debug\net8.0-windows\ref\diyabetapp.dll
+C:\Users\emirh\source\repos\diyabetapp\obj\Debug\net8.0-windows\diyabetapp.DoktorForm.resources
+C:\Users\emirh\source\repos\diyabetapp\obj\Debug\net8.0-windows\diyabetapp.HastaForm.resources
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\diyabetapp.exe
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\diyabetapp.deps.json
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\diyabetapp.runtimeconfig.json
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\diyabetapp.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\diyabetapp.pdb
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\obj\Debug\net8.0-windows\diyabetapp.csproj.AssemblyReference.cache
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\obj\Debug\net8.0-windows\diyabetapp.AnaForm.resources
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\obj\Debug\net8.0-windows\diyabetapp.DoktorForm.resources
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\obj\Debug\net8.0-windows\diyabetapp.Form1.resources
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\obj\Debug\net8.0-windows\diyabetapp.HastaForm.resources
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\obj\Debug\net8.0-windows\diyabetapp.csproj.GenerateResource.cache
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\obj\Debug\net8.0-windows\diyabetapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\obj\Debug\net8.0-windows\diyabetapp.AssemblyInfoInputs.cache
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\obj\Debug\net8.0-windows\diyabetapp.AssemblyInfo.cs
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\obj\Debug\net8.0-windows\diyabetapp.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\obj\Debug\net8.0-windows\diyabetapp.csproj.Up2Date
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\obj\Debug\net8.0-windows\diyabetapp.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\obj\Debug\net8.0-windows\refint\diyabetapp.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\obj\Debug\net8.0-windows\diyabetapp.pdb
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\obj\Debug\net8.0-windows\diyabetapp.genruntimeconfig.cache
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\obj\Debug\net8.0-windows\ref\diyabetapp.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\diyabetapp.exe
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\diyabetapp.deps.json
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\diyabetapp.runtimeconfig.json
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\diyabetapp.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\diyabetapp.pdb
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\obj\Debug\net8.0-windows\diyabetapp.csproj.AssemblyReference.cache
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\obj\Debug\net8.0-windows\diyabetapp.AnaForm.resources
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\obj\Debug\net8.0-windows\diyabetapp.DoktorForm.resources
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\obj\Debug\net8.0-windows\diyabetapp.Form1.resources
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\obj\Debug\net8.0-windows\diyabetapp.HastaForm.resources
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\obj\Debug\net8.0-windows\diyabetapp.csproj.GenerateResource.cache
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\obj\Debug\net8.0-windows\diyabetapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\obj\Debug\net8.0-windows\diyabetapp.AssemblyInfoInputs.cache
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\obj\Debug\net8.0-windows\diyabetapp.AssemblyInfo.cs
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\obj\Debug\net8.0-windows\diyabetapp.csproj.CoreCompileInputs.cache
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\obj\Debug\net8.0-windows\diyabetapp.csproj.Up2Date
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\obj\Debug\net8.0-windows\diyabetapp.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\obj\Debug\net8.0-windows\refint\diyabetapp.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\obj\Debug\net8.0-windows\diyabetapp.pdb
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\obj\Debug\net8.0-windows\diyabetapp.genruntimeconfig.cache
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp\obj\Debug\net8.0-windows\ref\diyabetapp.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\diyabetapp.exe
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\diyabetapp.deps.json
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\diyabetapp.runtimeconfig.json
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\diyabetapp.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\diyabetapp.pdb
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\obj\Debug\net8.0-windows\diyabetapp.csproj.AssemblyReference.cache
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\obj\Debug\net8.0-windows\diyabetapp.DoktorForm.resources
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\obj\Debug\net8.0-windows\diyabetapp.Form1.resources
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\obj\Debug\net8.0-windows\diyabetapp.HastaForm.resources
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\obj\Debug\net8.0-windows\diyabetapp.csproj.GenerateResource.cache
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\obj\Debug\net8.0-windows\diyabetapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\obj\Debug\net8.0-windows\diyabetapp.AssemblyInfoInputs.cache
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\obj\Debug\net8.0-windows\diyabetapp.AssemblyInfo.cs
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\obj\Debug\net8.0-windows\diyabetapp.csproj.CoreCompileInputs.cache
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\obj\Debug\net8.0-windows\diyabetapp.csproj.Up2Date
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\obj\Debug\net8.0-windows\diyabetapp.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\obj\Debug\net8.0-windows\refint\diyabetapp.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\obj\Debug\net8.0-windows\diyabetapp.pdb
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\obj\Debug\net8.0-windows\diyabetapp.genruntimeconfig.cache
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\obj\Debug\net8.0-windows\ref\diyabetapp.dll
+C:\Users\emirh\OneDrive\Masaüstü\diyabetapp1\obj\Debug\net8.0-windows\diyabetapp.Properties.Resources.resources
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\obj\Debug\net8.0-windows\diyabetapp.csproj.AssemblyReference.cache
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\obj\Debug\net8.0-windows\diyabetapp.DoktorForm.resources
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\obj\Debug\net8.0-windows\diyabetapp.Form1.resources
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\obj\Debug\net8.0-windows\diyabetapp.HastaForm.resources
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\obj\Debug\net8.0-windows\diyabetapp.Properties.Resources.resources
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\obj\Debug\net8.0-windows\diyabetapp.csproj.GenerateResource.cache
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\obj\Debug\net8.0-windows\diyabetapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\obj\Debug\net8.0-windows\diyabetapp.AssemblyInfoInputs.cache
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\obj\Debug\net8.0-windows\diyabetapp.AssemblyInfo.cs
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\obj\Debug\net8.0-windows\diyabetapp.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\diyabetapp.exe
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\diyabetapp.deps.json
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\diyabetapp.runtimeconfig.json
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\diyabetapp.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\diyabetapp.pdb
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\LiveCharts.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\LiveCharts.WinForms.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\LiveCharts.Wpf.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\obj\Debug\net8.0-windows\diyabetapp.csproj.Up2Date
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\obj\Debug\net8.0-windows\diyabetapp.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\obj\Debug\net8.0-windows\refint\diyabetapp.dll
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\obj\Debug\net8.0-windows\diyabetapp.pdb
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\obj\Debug\net8.0-windows\diyabetapp.genruntimeconfig.cache
+C:\Users\Abdullah Ekici\Desktop\diyabetapp1\obj\Debug\net8.0-windows\ref\diyabetapp.dll
